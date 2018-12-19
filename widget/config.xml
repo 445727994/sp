@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><widget id="A6090774142108" security="false" version="0.0.1">
-  <name>爱佳影视</name>
+  <name>萤火虫</name>
   <description>Example For APICloud.</description>
-  <author email="developer@apicloud.com" href="http://www.apicloud.com">Developer</author>
+  <author email="445727@qq.com" href="http://www.apicloud.com">Developer</author>
   <content src="index.html"/>
   <preference name="pageBounce" value="false"/>
   <preference name="appCertificateVerify" value="false"/>
